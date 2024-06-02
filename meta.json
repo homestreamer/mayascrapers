@@ -1,0 +1,8 @@
+{
+  "author": "Maya",
+  "version":"0.1.1",
+  "name":"mayascrapers",
+  "update_directory": "https://github.com/homestreamer/mayascrapers/archive/",
+  "remote_meta": "https://raw.githubusercontent.com/homestreamer/mayascrapers/master/meta.json",
+  "seren_version": "3.0.0"
+}
